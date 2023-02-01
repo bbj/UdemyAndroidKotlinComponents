@@ -15,3 +15,4 @@ dependencyResolutionManagement {
 rootProject.name = "Components"
 include ':app'
 include ':app:textviews'
+include ':app:buttons'
